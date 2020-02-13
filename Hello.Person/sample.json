@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Rose",
+                "last": "Menard"
+            },
+            "location": {
+                "street": {
+                    "number": 6669,
+                    "name": "Rue de L'Abbaye"
+                },
+                "city": "Montpellier",
+                "state": "Rhône",
+                "country": "France",
+                "postcode": 96771,
+                "coordinates": {
+                    "latitude": "2.8626",
+                    "longitude": "174.5005"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "rose.menard@example.com",
+            "login": {
+                "uuid": "eacba88c-f413-4824-9cd2-bb41c46b0adc",
+                "username": "blackpanda740",
+                "password": "spawn",
+                "salt": "qfnHlr1V",
+                "md5": "b1bace7b4632bed40eec6bcccc028430",
+                "sha1": "0d18fdbeab8cdeb7c317e49371d72a3b355ca9f4",
+                "sha256": "e0b9e2d722fa86f85d19ce9624aeaaf88d7053df9b8a87dfa4c63cb904923db7"
+            },
+            "dob": {
+                "date": "1959-03-03T14:55:29.309Z",
+                "age": 61
+            },
+            "registered": {
+                "date": "2004-02-02T00:30:32.291Z",
+                "age": 16
+            },
+            "phone": "02-46-06-87-95",
+            "cell": "06-45-55-77-01",
+            "id": {
+                "name": "INSEE",
+                "value": "2NNaN91489749 66"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/76.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+            },
+            "nat": "FR"
+        }
+    ],
+    "info": {
+        "seed": "efb62cfbc22c3908",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}

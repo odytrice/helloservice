@@ -1,0 +1,6 @@
+Services:
+    Person: "http://localhost:8001"
+    Location: "http://localhost:8002"
+
+Kestrel:
+    Port: 8000
