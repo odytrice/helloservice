@@ -1,6 +1,6 @@
 # Hello Micro Services
 
-Hello World.. Using Micro Services 😎
+Hello World.. Using Micro Services 😎. It greets a Random Person from a Random Location
 
 ## Installation
 
