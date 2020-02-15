@@ -2,6 +2,36 @@
 
 Hello World.. Using Micro Services 😎
 
+## Installation
+
+First you need to install the Paket tool
+
+```bash
+# Install Paket CLI if not installed
+dotnet tool install paket --global
+
+# Install Application Packages
+paket install
+
+# Build entire solution
+dotnet build
+```
+
+## Running the Application
+
+1. Open Terminal
+2. Change the directory to the `Hello.Person`
+3. Execute `dotnet run`
+4. Open Another Terminal
+5. Change the directory to the `Hello.Location`
+6. Execute `dotnet run`
+7. Open Another Terminal
+8. Change the directory to the `Hello.App`
+9. Execute `dotnet run`
+
+
+You can then proceed to http://localhost:8000 in your browser
+
 ![Hello Microservices](docs/images/hellomicroservices.png)
 
 
@@ -26,3 +56,4 @@ This micro service returns a random city and state each time it's invoked
 ### App Service
 
 This is the front end that returns the greeting using data from both the Person service and the Location Service
+

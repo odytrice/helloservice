@@ -409,4 +409,3 @@ paket-files/
 symbolCache.db
 
 .ionide/symbolCache.db-journal
-.paket/Paket.Restore.targets
