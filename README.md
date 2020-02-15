@@ -4,7 +4,7 @@ Hello World.. Using Micro Services 😎
 
 ## Installation
 
-First you need to install the Paket tool
+First you need to install the Paket tool, The Install Packages before building the solution
 
 ```bash
 # Install Paket CLI if not installed
